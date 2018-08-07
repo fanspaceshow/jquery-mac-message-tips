@@ -1,2 +1,2 @@
 # jquery-mac-message-tips
-jqeury-plugin
+![image](img/20180807101200.png)
